@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireBase Authentication</string>
+    <string name="default_web_client_id">your_default_web_client_id</string>
+</resources>
